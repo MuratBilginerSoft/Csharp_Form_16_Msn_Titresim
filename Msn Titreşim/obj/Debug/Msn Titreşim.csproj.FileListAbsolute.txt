@@ -1,0 +1,9 @@
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\bin\Debug\Msn Titreşim.exe.config
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\bin\Debug\Msn Titreşim.exe
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\bin\Debug\Msn Titreşim.pdb
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn_Titreşim.Form1.resources
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn_Titreşim.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn Titreşim.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn Titreşim.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn Titreşim.exe
+c:\users\mrt_b\source\repos\Msn Titreşim\Msn Titreşim\obj\Debug\Msn Titreşim.pdb
